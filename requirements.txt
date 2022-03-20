@@ -1,0 +1,6 @@
+astropy
+black
+loguru
+matplotlib
+numpy
+scipy
