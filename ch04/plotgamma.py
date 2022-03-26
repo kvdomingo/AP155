@@ -1,4 +1,4 @@
-from ch03 import *
+from setup import *
 from .gamma import gamma
 from numpy import linspace
 

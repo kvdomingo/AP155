@@ -1,5 +1,5 @@
 from numpy import array, pi, sqrt, zeros
-from ch03 import *
+from setup import *
 from scipy.constants import epsilon_0
 
 

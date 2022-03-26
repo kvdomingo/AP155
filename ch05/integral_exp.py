@@ -1,4 +1,4 @@
-from ch03 import *
+from setup import *
 from numpy import exp, linspace
 
 

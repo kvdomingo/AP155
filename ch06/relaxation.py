@@ -1,5 +1,5 @@
 from numpy import arange, array, exp
-from ch03 import *
+from setup import *
 
 
 def relax(acc: float) -> float:

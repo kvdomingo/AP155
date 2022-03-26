@@ -1,4 +1,4 @@
-from ch03 import *
+from setup import *
 from . import *
 from numpy import tanh, cosh, linspace
 

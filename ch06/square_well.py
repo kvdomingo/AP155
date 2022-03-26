@@ -1,6 +1,6 @@
-from numpy import tan, sqrt, linspace
+from setup import *
+from numpy import tan, sqrt, linspace, ndarray
 from scipy.constants import electron_mass, hbar
-from ch03 import *
 
 V = 20
 w = 1e-9
